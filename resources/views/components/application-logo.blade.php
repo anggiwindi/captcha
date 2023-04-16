@@ -1,0 +1,1 @@
+<img src="{{ asset('logo/anggi.png') }}" width="100px">
